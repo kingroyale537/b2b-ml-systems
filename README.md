@@ -121,8 +121,8 @@ flowchart TD
 ### Environment Setup
 ```bash
 # Clone the repository
-git clone <repo-url>
-cd mlinternship
+git clone https://github.com/kingroyale537/b2b-ml-systems.git
+cd b2b-ml-systems
 
 # Create isolated Python 3.11 virtual environment using uv
 uv venv --python 3.11 .venv

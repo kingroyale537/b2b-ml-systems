@@ -48,7 +48,7 @@ Clean, modular PyTorch code, unit tests (pytest), benchmarks, and mathematical d
 
 If you are scaling ML models or working on entity resolution, representation learning, and neural search, I’d love to connect!
 
-🔗 GitHub Repository: [Link in Comments]
-📄 Full 45-Min ML Systems Design Write-up: [Link in Comments]
+🔗 GitHub Repository: https://github.com/kingroyale537/b2b-ml-systems
+📄 Full 45-Min ML Systems Design Write-up: https://github.com/kingroyale537/b2b-ml-systems/blob/main/INTERVIEW_PREP_45MIN_DEEP_DIVE.md
 
 #MachineLearning #PyTorch #NLP #Search #InformationRetrieval #DeepLearning #FoundingEngineer #DataEngineering #EntityResolution
